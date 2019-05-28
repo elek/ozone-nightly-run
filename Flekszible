@@ -1,0 +1,5 @@
+import:
+  - path: ozone
+    transformations:
+      - type: image
+        image: elek/ozone:0.5.0-SNAPSHOT
